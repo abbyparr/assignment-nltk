@@ -1,1 +1,1 @@
-# assignment-nltk
+The purpose of my program is to analyze 3 datasets using NLTK. I used many different functions including: tokenization, stemming, lemmatization, and n-gram counting. The output of my program includes an analyzation of the 3 text datasets. 
